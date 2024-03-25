@@ -128,3 +128,4 @@ C:\Users\seans\Desktop\tafe\coding\TaskManager\TaskManager\obj\Debug\net8.0\refi
 C:\Users\seans\Desktop\tafe\coding\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.pdb
 C:\Users\seans\Desktop\tafe\coding\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
 C:\Users\seans\Desktop\tafe\coding\TaskManager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
+C:\Users\seans\Desktop\tafe\coding\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.sourcelink.json
